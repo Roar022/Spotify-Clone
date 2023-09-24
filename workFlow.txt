@@ -1,0 +1,8 @@
+making sidebar component, making two box element, one is for home an search, second is for your library
+sidebar items has home and search icon rendering 
+library has list of songs
+
+1) sidebar -> sidebar item through route
+           -> song library
+
+2)
